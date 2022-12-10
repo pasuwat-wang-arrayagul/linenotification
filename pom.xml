@@ -12,7 +12,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <spring.web.version>4.3.26.RELEASE</spring.web.version>
+        <spring.web.version>6.0.0</spring.web.version>
     </properties>
 
     <dependencies>
